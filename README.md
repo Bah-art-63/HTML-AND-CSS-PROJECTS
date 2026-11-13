@@ -3,6 +3,15 @@
 This repository contains websites and projects I created during my HTML and CSS course.
 
 ## Projects
+•⁠  ⁠[Academy Cinemas](Academy-Cinemas)
+
+•⁠  ⁠[Creating CSS Effects](Creating-CSS-Effects)
+
+•⁠  ⁠[One Page Website](One-Page%20Website)
+
+•⁠  ⁠[The Pet Shop Website](The-Pet-Shop-Website)
+
+•⁠  ⁠[Simple Recipes](simple-Recipes)
 
 ### Academy Cinemas
 A movie theater website created using HTML, CSS, and Bootstrap.
